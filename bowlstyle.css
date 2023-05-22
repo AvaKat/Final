@@ -1,0 +1,240 @@
+
+body {
+    background-image: url("web_2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1920px, 1080px;
+    background-size: cover;
+    background-color: #1A1A1A;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Arial;
+    color: #111;
+    font-weight: 600;
+    top: 28%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 90px;
+    position: absolute;
+    text-align: center;
+}
+
+div h2{
+    font-size: 40px;
+    font-family: Arial;
+    color: #111;
+
+}
+
+div h3{
+    font-size: 30px;
+    font-family: Arial;
+    color: #111;
+
+}
+
+body p{
+    font-size: 25px;
+    font-family: Arial;
+    color: #111;
+
+}
+
+div li{
+    font-size: 25px;
+    font-family: Arial;
+    color: #ffff;  
+}
+
+a{
+    font-size: 25px;
+    font-family: Arial;
+    color: #ffff;  
+}
+
+footer p{
+    font-size: small;
+}
+
+h2{
+      font-size: 40px;
+    font-family: Arial;
+    color: #111;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 20;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li a {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #21838a;
+  }
+  
+  body { 
+    background-color:#F0DFC8 
+    }
+    
+
+  *{
+    padding: 0;
+    margin: 0;
+    font-family: 'Mulish', sans-serif;
+    color: #111;
+  }
+
+  .blue{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .container { 
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #51ABB2;
+      height: 21em;
+      width: 260em;
+    }
+    
+    .apple{
+          top: 48%;
+        left: 12%;
+        position: absolute;
+        text-align: center;
+        
+    }
+    .nap{
+        top: 57%;
+        left: 28%;
+        position: absolute;
+        font-size: 40px;
+    }
+
+    .nap2{
+        left: 28%;
+        position: absolute;
+        top: 63%;
+    }
+
+    .bowl{
+        top: 79%;
+        left: 28%;
+        position: absolute;
+        text-align: center;
+    }
+
+    .bowl2{
+      left: 30%;
+        position: absolute;
+        top: 84%;
+    }
+
+    .olive{
+       left: 32%;
+        position: absolute;
+        top: 90%;
+        color: #111;
+        font-size: 25px;
+
+    }
+
+    .spare{
+      top: 107%;
+      left: 28%;
+      position: absolute;
+      text-align: center;
+    }
+
+    .know{
+      top: 114%;
+      left: 28%;
+      position: absolute;
+      text-align: center;
+    }
+
+.k2{
+  top: 120%;
+  left: 28%;
+  position: absolute;
+  text-align: center;
+}
+
+.k3{
+  top: 126%;
+  left: 28%;
+  position: absolute;
+
+}
+
+.k4{
+  top: 138%;
+  left: 28%;
+  position: absolute;
+
+}
+
+.k5{
+  top: 143%;
+  left: 28%;
+  position: absolute;
+}
+
+.k6{
+  top: 153%;
+  left: 28%;
+  position: absolute; 
+}
+
+.k7{
+  top: 160%;
+  left: 28%;
+  position: absolute; 
+}
+
+.grape{
+ top: 41%;
+  left: 43%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  text-align: center;
+}
+
+.cherry{
+  top: 41%;
+  left: 56%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  text-align: center;
+
+}
+
+video{
+  top: 173%;
+  left: 28%;
+  position: absolute; 
+  align-items: center;
+}
